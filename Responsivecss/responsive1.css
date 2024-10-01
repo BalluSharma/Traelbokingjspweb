@@ -1,0 +1,1362 @@
+@media screen and (max-width: 1100px) and (min-width: 1000px)
+{
+       /*top flights Route start*/
+            .leftimg img{
+                   width: 70px;
+               }
+
+               .righttext{
+                      width: 250px;
+                      height : 90px; 
+               }
+
+               .dest{
+                     gap: 5px;
+               }
+
+               .dest span{
+                   font-size: 20px;
+               }
+            
+             /*top flights Route end*/   
+             
+             
+             /*Why book us portion start*/
+               .easybook{
+                    width: 200px;
+                }
+
+             /*why book us part end*/
+}
+
+
+
+
+@media screen and (max-width: 1030px) and (min-width: 950px)
+{
+      /*Destination portion start*/
+
+      /* .destination{
+        background-color: red;
+      }
+
+        .from input{
+            width: 175px;
+            font-size: 45px;
+        }      
+
+       .form2 input{
+          width: 171px;
+          font-size: 33px;
+          margin-top: 16px;
+       }
+
+         .search button{
+            font-size : 40px;
+         }        */
+      /*Destination portion end*/
+
+
+        /*top flights Route start*/
+        .leftimg img{
+            width: 70px;
+        }
+
+        .righttext{
+               width: 250px;
+               height : 90px; 
+        }
+
+        .dest{
+              gap: 5px;
+        }
+
+        .dest span{
+            font-size: 20px;
+        }
+
+        .dest i{
+            font-size: 15px;
+        }
+     
+      /*top flights Route end*/  
+
+      /*Why book us portion start*/
+      .easybook{
+        width: 200px;
+    }
+
+ /*why book us part end*/
+
+
+
+ /*Famous Tourist Attraction portion start*/
+ .innerfamous{
+           width: 150px;
+      }
+
+/*Famous Tourist Attraction partion end*/
+
+
+}
+
+@media screen and (max-width:949px) and (min-width: 900px)
+{
+     /*Destination portion start*/
+
+     /* .destination{
+        background-color: violet;
+      }
+
+        .from input{
+            width: 175px;
+            font-size: 45px;
+        }      
+
+       .form2 input{
+          width: 171px;
+          font-size: 33px;
+          margin-top: 16px;
+       }
+
+       .vertical-line{
+        margin-left: 1px;
+       }
+
+       .search button{
+             font-size: 38px;
+       } */
+      /*Destination portion end*/
+
+
+       /*top flights Route start*/
+       .leftimg img{
+        width: 70px;
+    }
+
+    .righttext{
+           width: 250px;
+           height : 90px; 
+    }
+
+    .dest{
+          gap: 5px;
+    }
+
+    .dest span{
+        font-size: 20px;
+    }
+
+    .dest i{
+        font-size: 15px;
+    }
+ 
+  /*top flights Route end*/
+  
+  /*Why book us portion start*/
+  .easybook{
+    width: 200px;
+}
+
+/*why book us part end*/
+
+
+ /*Famous Tourist Attraction portion start*/
+ .innerfamous{
+    width: 150px;
+}
+
+/*Famous Tourist Attraction partion end*/
+
+}
+
+
+@media screen and (max-width: 899px) and (min-width: 800px)
+{
+           
+     /*Destination portion start*/
+
+     /* .destination{
+        background-color: cyan;
+      }
+
+      .from input{
+              width: 180px;
+              font-size: 45px;
+      }
+
+      .from1{
+        padding-left: 0px;
+      }
+
+      .from1 input{
+        font-size: 20px;
+      }
+
+        .from1 h5{
+            font-size: 20px;
+        }
+
+        .from2 h5{
+            padding-top : 5px;
+        }
+       
+       .from2 input{
+          width: 140px;
+          font-size: 25px;
+          margin-top: 12px;
+       }
+
+       .vertical-line{
+        margin-left: 6px;
+       }
+
+       .search button{
+             font-size: 28px;
+       } */
+      /*Destination portion end*/
+
+
+        /*top flights Route start*/
+        .leftimg img{
+            width: 70px;
+        }
+
+        .righttext{
+               width: 250px;
+               height : 90px; 
+        }
+
+        .dest{
+              gap: 5px;
+        }
+
+        .dest span{
+            font-size: 20px;
+        }
+
+        .dest i{
+            font-size: 15px;
+        }
+     
+      /*top flights Route end*/
+      
+      /*Why book us portion start*/
+        .property{
+            flex-direction: column;
+        }
+      
+      .easybook{
+        width: 500px;
+        }
+
+ /*why book us part end*/
+
+ /*Famous Tourist Attraction portion start*/
+ .famous{
+          padding-top: 660px;
+    }
+ 
+ .innerfamous{
+    width: 120px;
+    }
+
+/*Famous Tourist Attraction partion end*/
+
+
+    }
+
+
+@media screen and (max-width: 799px) and (min-width: 751px)
+{
+        /*top flights Route start*/
+        .leftimg img{
+            width: 70px;
+        }
+
+        .righttext{
+               width: 250px;
+               height : 90px; 
+        }
+
+        .dest{
+              gap: 5px;
+        }
+
+        .dest span{
+            font-size: 20px;
+        }
+
+        .dest i{
+            font-size: 15px;
+        }
+     
+      /*top flights Route end*/     
+
+          /*Why book us portion start*/
+          .property{
+            flex-direction: column;
+        }
+      
+      .easybook{
+        width: 500px;
+        }
+
+ /*why book us part end*/
+
+  /*Famous Tourist Attraction portion start*/
+  .famous{
+    padding-top: 660px;
+}
+
+.innerfamous{
+width: 120px;
+}
+
+/*Famous Tourist Attraction partion end*/
+
+    }
+
+
+@media  screen and (max-width: 750px) and (min-width: 700px) 
+{
+    /*Head portion  start*/
+       .btn1 button{
+            height: 30px;
+            width: 80px;
+       }
+       /*Head portion end*/
+
+
+        /*top flights Route start*/
+        .leftimg img{
+            width: 70px;
+        }
+
+        .righttext{
+               width: 250px;
+               height : 90px; 
+        }
+
+        .dest{
+              gap: 5px;
+        }
+
+        .dest span{
+            font-size: 20px;
+        }
+
+        .dest i{
+            font-size: 15px;
+        }
+     
+      /*top flights Route end*/
+      
+          /*Why book us portion start*/
+          .property{
+            flex-direction: column;
+        }
+      
+      .easybook{
+        width: 500px;
+        }
+
+ /*why book us part end*/
+
+  /*Famous Tourist Attraction portion start*/
+  .famous{
+    padding-top: 660px;
+}
+
+.innerfamous{
+width: 100px;
+}
+
+/*Famous Tourist Attraction partion end*/
+
+}
+
+
+
+@media screen and (max-width: 699px) and (min-width: 650px)
+{ 
+    /*Head portion start*/
+    .btn1 button{
+        height: 30px;
+        width: 70px;
+   }
+   /**Head portion end*/
+
+    /*top flights Route start*/
+    .leftimg img{
+        width: 70px;
+        height: 70px;
+    }
+
+    .righttext{
+           width: 250px;
+           height : 90px; 
+    }
+
+    .dest{
+          gap: 5px;
+    }
+
+    .dest span{
+        font-size: 15px;
+    }
+
+    .dest i{
+        font-size: 12px;
+    }
+
+    .startend p{
+        font-size: 15px;
+    }
+  /*top flights Route end*/
+  
+      /*Why book us portion start*/
+      .property{
+        flex-direction: column;
+    }
+  
+  .easybook{
+    width: 500px;
+    }
+
+/*why book us part end*/
+
+  /*Famous Tourist Attraction portion start*/
+  .famous{
+    padding-top: 660px;
+}
+
+.innerfamous{
+width: 80px;
+}
+
+
+/*Famous Tourist Attraction partion end*/
+
+
+}
+
+
+@media screen and (max-width:649px) and (min-width:600px)
+{
+    /*Head portion start*/
+    .con-image img{
+           height: 70px;
+           width: 100px;
+    }
+
+    .con-text img{
+        width: 50px;
+        height: 40px;
+    }
+
+    .btn1 button{
+        font-size: 15px;
+        font-weight: bold;
+        height: 35px;
+        width: 65px;
+    }    
+    /*Head portion end*/
+
+      /*top flights Route start*/
+       .leftimg img{
+        width: 50px;
+        height: 70px;
+    }
+
+    .righttext{
+           width: 250px;
+           height : 90px;
+
+    }
+
+    .dest{
+          gap: 5px;
+    }
+
+    .dest span{
+        font-size: 15px;
+    }
+
+    .dest i{
+        font-size: 12px;
+    }
+
+    .startend p{
+        font-size: 15px;
+    }
+  /*top flights Route end*/
+
+      /*Why book us portion start*/
+      .property{
+        flex-direction: column;
+    }
+  
+  .easybook{
+    width: 500px;
+    }
+
+/*why book us part end*/
+
+/*Famous Tourist Attraction portion start*/
+.famous{
+    padding-top: 700px;
+}
+
+.bookus img{
+              width: 50px;
+              height: 50px;
+         }
+
+         .bookus h3{
+            font-size: 35px;
+         }
+
+           .innerfamous{
+                   width: 60px;
+                   height: 160px;
+                  }     
+                
+                  .grp1{
+                      width: 150px;
+                      height: 100px;
+                      background-color: white;
+                  }
+
+                  .grp1 img{
+                    width: 90px;
+                    height: 95px;
+                  }
+         
+
+/*Famous Tourist Attraction partion end*/
+
+
+}
+
+@media screen and (max-width: 599px) and (min-width: 550px)
+{
+    /*Head portion start*/
+    .con-image img{
+           height: 70px;
+           width: 100px;
+    }
+
+
+    .con-text img{
+        width: 50px;
+        height: 40px;
+    }
+
+    .btn1 button{
+        font-size: 15px;
+        font-weight: bold;
+        height: 35px;
+        width: 65px;
+    } 
+    /*Head portion end*/
+
+  /*top flights Route start*/
+
+  .fromto{
+    height: 380px;
+    gap : 15px;
+  }
+
+ .chotucard{
+    flex-direction: column;
+ }
+
+ .leftimg img{
+    width: 100px;
+    height: 65px;
+}
+
+.righttext{
+       width: 250px;
+       height : 90px;
+       padding: 3px;
+}
+
+.dest{   
+    padding-left: 30px;
+      gap: 3px;
+}
+
+.dest span{
+    font-size: 15px;
+}
+
+.dest i{
+    font-size: 12px;
+}
+
+.startend p{
+    padding-left: 10px;
+    margin-left: 45px;
+    font-size: 12px;
+}
+/*top flights Route end*/
+
+    /*Why book us portion start*/
+
+    .book{
+        padding : 50px;
+    }
+
+    .bookus img{
+        width: 50px;
+    }
+
+    .bookus h3{
+        font-size: 35px;
+    }
+
+
+    .property{
+        flex-direction: column;
+    }
+  
+  .easybook{
+    width: 400px;
+    }
+
+/*why book us part end*/
+
+
+/*Famous Tourist Attraction portion start*/
+.famous{
+    padding-top: 700px;
+}
+
+.bookus img{
+              width: 50px;
+              height: 50px;
+         }
+
+         .bookus h3{
+            font-size: 30px;
+         }
+
+           .innerfamous{
+                   width: 60px;
+                   height: 160px;
+                  }     
+                
+                  .grp1{
+                      width: 150px;
+                      height: 100px;
+                      background-color: white;
+                  }
+
+                  .grp1 img{
+                    width: 90px;
+                    height: 95px;
+                  }
+         
+/*Famous Tourist Attraction partion end*/
+
+}
+
+@media screen and (max-width:549px) and (min-width:500px)
+{
+    /*Head portion start*/
+    .con-image img{
+           height: 70px;
+           width: 90px;
+    }
+
+    .con-text img{
+        width: 40px;
+        height: 40px;
+    }
+
+    .btn1 button{
+        font-size: 15px;
+        font-weight: bold;
+        height: 35px;
+        width: 60px;
+    }
+    /*Head Portion end*/   
+    
+     /*top flights Route start*/
+
+  .fromto{
+    height: 380px;
+    gap : 15px;
+  }
+
+ .chotucard{
+    flex-direction: column;
+ }
+
+ .leftimg img{
+    width: 100px;
+    height: 65px;
+}
+
+.righttext{
+       width: 250px;
+       height : 90px;
+       padding: 3px;
+}
+
+.dest{   
+    padding-left: 30px;
+      gap: 3px;
+}
+
+.dest span{
+    font-size: 15px;
+}
+
+.dest i{
+    font-size: 12px;
+}
+
+.startend p{
+    padding-left: 10px;
+    margin-left: 45px;
+    font-size: 12px;
+}
+/*top flights Route end*/
+
+/*Why book us portion start*/
+
+.book{
+    padding : 50px;
+}
+
+.bookus img{
+    width: 50px;
+}
+
+.bookus h3{
+    font-size: 30px;
+}
+
+
+.property{
+    flex-direction: column;
+}
+
+.easybook{
+width: 400px;
+}
+
+/*why book us part end*/
+
+
+/*Famous Tourist Attraction portion start*/
+.famous{
+    padding-top: 700px;
+}
+
+.bookus img{
+              width: 40px;
+              height: 40px;
+         }
+
+         .bookus h3{
+            font-size: 25px;
+         }
+
+           .innerfamous{
+                   width: 60px;
+                   height: 160px;
+                  }     
+                
+                  .grp1{
+                      width: 140px;
+                      height: 100px;
+                      background-color: white;
+                  }
+
+                  .grp1 img{
+                    width: 85px;
+                    height: 80px;
+                  }
+         
+/*Famous Tourist Attraction partion end*/
+
+}
+
+
+@media screen and (max-width:499px) and (min-width:450px)
+{
+    /*Head portion start*/
+    .con-image img{
+           height: 65px;
+           width: 80px;
+    }
+
+    .con-text img{
+        width: 40px;
+        height: 35px;
+    }
+
+    .con-text h4{
+        font-size: 12px;
+    }
+
+    .btn1 button{
+        font-size: 15px;
+        font-weight: bold;
+        height: 35px;
+        width: 55px;
+    }
+    /*Head portion end*/ 
+
+
+   /*top flights Route start*/
+
+      .bookus1 h3{
+           font-size: 35px;
+      }
+
+   .fromto{
+    height: 380px;
+    gap : 15px;
+  }
+
+ .chotucard{
+    flex-direction: column;
+ }
+
+ .leftimg img{
+    width: 100px;
+    height: 65px;
+}
+
+.righttext{
+       width: 250px;
+       height : 90px;
+       padding: 3px;
+}
+
+.dest{   
+    padding-left: 30px;
+      gap: 3px;
+}
+
+.dest span{
+    font-size: 15px;
+}
+
+.dest i{
+    font-size: 12px;
+}
+
+.startend p{
+    padding-left: 10px;
+    margin-left: 45px;
+    font-size: 12px;
+}
+/*top flights Route end*/
+
+
+    /*Why book us portion start*/
+
+.book{
+    padding : 50px;
+}
+
+.bookus img{
+    width: 50px;
+    height: 35px;
+}
+
+.bookus h3{
+    font-size: 25px;
+}
+
+
+.property{
+    flex-direction: column;
+}
+
+.easybook{
+width: 400px;
+}
+
+/*why book us part end*/
+
+
+
+/*Famous Tourist Attraction portion start*/
+.famous{
+    padding-top: 700px;
+}
+
+.bookus img{
+              width: 40px;
+              height: 40px;
+         }
+
+         .bookus h3{
+            font-size: 25px;
+         }
+
+           .innerfamous{
+                   width: 40px;
+                   height: 150px;
+                  }     
+                
+                  .grp1{
+                      width: 120px;
+                      height: 100px;
+                      background-color: white;
+                  }
+
+                  .grp1 img{
+                    width: 80px;
+                    height: 75px;
+                  }
+         
+/*Famous Tourist Attraction partion end*/
+
+
+}
+
+@media  screen and (max-width:449px) and (min-width:400px)
+{
+    /*Head portion start*/
+    .con-image img{
+           height: 65px;
+           width: 75px;
+    }
+
+    .con-text img{
+        width: 35px;
+        height: 35px;
+    }
+
+    .con-text h4{
+        font-size: 12px;
+    }
+
+    .btn1 button{
+        font-size: 12px;
+        font-weight: bold;
+        height: 35px;
+        width: 50px;
+    }
+    /*Head portion end*/  
+    
+     /*top flights Route start*/
+
+     .bookus1 img{
+        width: 50px;
+        height: 65px;
+     }
+
+     .bookus1 h3{
+        font-size: 35px;
+   }
+
+  .fromto{
+    height: 380px;
+    gap : 15px;
+  }
+
+ .chotucard{
+    flex-direction: column;
+ }
+
+ .leftimg img{
+    width: 100px;
+    height: 65px;
+}
+
+.righttext{
+       width: 250px;
+       height : 90px;
+       padding: 3px;
+}
+
+.dest{   
+    padding-left: 30px;
+      gap: 3px;
+}
+
+.dest span{
+    font-size: 15px;
+}
+
+.dest i{
+    font-size: 12px;
+}
+
+.startend p{
+    padding-left: 10px;
+    margin-left: 45px;
+    font-size: 12px;
+}
+/*top flights Route end*/
+
+
+/*Why book us porton start*/
+.book{
+    padding : 50px;
+}
+
+.bookus img{
+    width: 40px;
+    height: 30px;
+}
+
+.bookus h3{
+    font-size: 20px;
+}
+
+
+.property{
+    flex-direction: column;
+}
+
+.easybook{
+width: 350px;
+}
+    /*why book us portion start*/
+
+/*Famous Tourist Attraction portion start*/
+.famous{
+    padding-top: 700px;
+}
+
+.bookus img{
+              width: 40px;
+              height: 40px;
+         }
+
+         .bookus h3{
+            font-size: 20px;
+         }
+
+           .innerfamous{
+                   width: 40px;
+                   height: 150px;
+                  }     
+                
+                  .grp1{
+                      width: 110px;
+                      height: 100px;
+                      background-color: white;
+                  }
+
+                  .grp1 img{
+                    width: 70px;
+                    height: 75px;
+                  }
+         
+/*Famous Tourist Attraction partion end*/
+
+
+}
+
+
+@media screen and (max-width:399px) and (min-width:350px)
+{
+    /*Head portion start*/ 
+    .con-image img{
+           height: 65px;
+           width: 70px;
+    }
+
+    .con-text img{
+        width: 30px;
+        height: 35px;
+    }
+
+    .con-text h4{
+        font-size: 12px;
+    }
+
+    .btn1 button{
+        font-size: 12px;
+        font-weight: bold;
+        height: 35px;
+        width: 45px;
+    }
+    /*Head portion end*/ 
+    
+    /*Offers portion start*/
+        .bookus2 img{
+            width: 48px;
+            height: 63px;
+        }
+
+        .bookus2 h3{
+            font-size: 30px;
+        }
+ 
+    /*Offers portion end*/
+        
+
+    
+      /*top flights Route start*/
+
+      .bookus1 img{
+        width: 48px;
+        height: 63px;
+     }
+
+     .bookus1 h3{
+        font-size: 30px;
+   }
+
+  .fromto{
+    height: 380px;
+    gap : 15px;
+  }
+
+ .chotucard{
+    flex-direction: column;
+ }
+
+ .leftimg img{
+    width: 100px;
+    height: 65px;
+}
+
+.righttext{
+       width: 250px;
+       height : 90px;
+       padding: 3px;
+}
+
+.dest{   
+    padding-left: 30px;
+      gap: 3px;
+}
+
+.dest span{
+    font-size: 12px;
+}
+
+.dest i{
+    font-size: 12px;
+}
+
+.startend p{
+    padding-left: 10px;
+    margin-left: 45px;
+    font-size: 12px;
+}
+/*top flights Route end*/
+
+   /*Why book us porton start*/
+.book{
+    padding : 50px;
+}
+
+.bookus img{
+    width: 30px;
+    height: 30px;
+}
+
+.bookus h3{
+    font-size: 15px;
+}
+
+
+.property{
+    flex-direction: column;
+}
+
+.easybook{
+width: 350px;
+}
+    /*why book us portion start*/    
+
+
+    /*Famous Tourist Attraction portion start*/
+.famous{
+    padding-top: 720px;
+}
+
+.bookus img{
+              width: 30px;
+              height: 35px;
+         }
+
+         .bookus h3{
+            font-size: 20px;
+         }
+
+           .innerfamous{
+                   width: 20px;
+                   height: 150px;
+                  }     
+                
+                  .grp1{
+                      width: 80px;
+                      height: 100px;
+                      background-color: white;
+                  }
+
+                  .grp1 img{
+                    width: 65px;
+                    height: 75px;
+                  }
+         
+/*Famous Tourist Attraction partion end*/
+
+}
+
+@media screen and (max-width: 349px)  and (min-width: 340px)
+{
+     /*Head portion start*/ 
+    .con-image img{
+        height: 65px;
+        width: 60px;
+ }
+
+ .con-text img{
+     width: 30px;
+     height: 35px;
+ }
+
+ .con-text h4{
+     font-size: 10px;
+ }
+
+ .btn1 button{
+     font-size: 12px;
+     font-weight: bold;
+     height: 35px;
+     width: 45px;
+ }
+ /*Head portion end*/  
+ 
+ /*Offers portion start*/
+ .bookus2 img{
+    width: 45px;
+    height: 60px;
+}
+
+.bookus2 h3{
+    font-size: 30px;
+}
+
+/*Offers portion end*/
+
+
+
+/*top flights Route start*/
+
+.bookus1 img{
+width: 45px;
+height: 60px;
+}
+
+.bookus1 h3{
+font-size: 30px;
+}
+
+.fromto{
+height: 380px;
+gap : 15px;
+}
+
+.chotucard{
+flex-direction: column;
+}
+
+.leftimg img{
+width: 100px;
+height: 65px;
+}
+
+.righttext{
+width: 250px;
+height : 90px;
+padding: 3px;
+}
+
+.dest{   
+padding-left: 30px;
+gap: 3px;
+}
+
+.dest span{
+font-size: 12px;
+}
+
+.dest i{
+font-size: 12px;
+}
+
+.startend p{
+padding-left: 10px;
+margin-left: 45px;
+font-size: 12px;
+}
+/*top flights Route end*/
+
+
+   /*Why book us porton start*/
+   .book{
+    padding : 50px;
+}
+
+.bookus img{
+    width: 30px;
+    height: 30px;
+}
+
+.bookus h3{
+    font-size: 15px;
+}
+
+
+.property{
+    height: 300px;
+    flex-direction: column;
+}
+
+.easybook{
+width: 320px;
+}
+    /*why book us portion start*/ 
+    
+
+    /*Famous Tourist Attraction portion start*/
+    .famous{
+        padding-top: 780px;
+    }
+    
+    .bookus img{
+                  width: 30px;
+                  height: 35px;
+             }
+    
+             .bookus h3{
+                font-size: 15px;
+             }
+    
+               .innerfamous{
+                       width: 20px;
+                       height: 150px;
+                      }     
+                    
+                      .grp1{
+                          width: 70px;
+                          height: 100px;
+                          background-color: white;
+                        }
+    
+                      .grp1 img{
+                        width: 55px;
+                        height: 75px;
+                      }
+             
+    /*Famous Tourist Attraction partion end*/
+
+}
+

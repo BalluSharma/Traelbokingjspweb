@@ -1,0 +1,698 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&family=SUSE:wght@100..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&family=Protest+Guerrilla&family=SUSE:wght@100..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Roboto+Slab:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Almendra:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Roboto+Slab:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Elsie:wght@400;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Elsie:wght@400;900&family=Stoke:wght@300;400&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    width: 100%;
+    height: 100%;
+}
+
+
+/*Head portion start*/
+.head{
+    width: 100%;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.head:hover{
+    background-color: rgb(252, 246, 246);
+}
+
+.con-image{
+    display: flex;
+    margin-left: 10px;
+}
+
+.con-image img{
+    height: 80px;
+    width: 110px;
+   
+}
+
+.con-text{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    text-align: center;
+    padding: 10px;
+}
+
+.con-text img{
+    width: 70px;
+    height: 45px;
+}
+
+.con-text h4{
+    font-family: "Oswald", sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.con-text h4:hover{
+    color: rgb(105, 100, 100);
+    font-size: 22px;
+    cursor: pointer;
+}
+
+.btn1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 10px;
+    gap: 10px;
+}
+
+.btn1 a{
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.btn1 button{
+    font-family: "Oswald", sans-serif;
+     height: 40px;
+     width: 125px;
+    font-size: 22px;
+    outline: none;
+    border: none;
+    border-radius: 15px;
+    background-color: #2196f3;
+    color: white;
+    cursor: pointer;
+}
+
+.btn1 button:hover{
+    background-color: white;
+    color: #2196f3;
+    font-weight: bold;
+}
+
+/*Head portion end*/
+
+
+/*Destination start*/
+
+.destination {
+    width: 100%;
+    height: 260px;
+    background-color:skyblue;
+    color: black;
+    padding: 10px 8px;
+    margin-top: 10px;
+}
+
+
+.bookus3{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+ }
+
+.bookus3 img{
+      width: 50px;
+      height: 50px;
+}
+
+.bookus3 h3{
+    font-family: "Roboto Slab", serif;
+    font-size: 40px;
+}
+
+
+.inner{
+    width: 99%;
+    height: 110px;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 5px;
+    display: flex;
+    margin-top: 15px;
+}
+
+.from{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 5px;
+    font-family: "SUSE", sans-serif;
+}
+
+select{
+    height: 50px;
+    width: 231px;
+    font-size: 30px;
+    text-align: center;
+    border-radius: 10px;
+    border:none;
+    outline: none;   
+}
+
+.from h5{
+    text-align: center;
+    font-size:25px;
+    text-decoration: underline;
+}
+
+.from h5:hover{
+    color: skyblue;
+    font-weight: bold;
+    font: size 21px;
+}
+
+.from input{
+    height: 50px;
+    width: 231px;
+    font-size: 30px;
+    text-align: center;
+    border-radius: 10px;
+    border:none;
+    outline: none;
+}
+
+.from p{
+    font-family: "Roboto Slab", serif;
+    text-align: center;
+    font-size: 13px;
+    font-weight: bold;
+    margin-left: 10px;
+}
+
+
+
+
+.vertical-line {
+    border-left: 2px solid black; /* Left side border for vertical line */
+    height: 108px; /* Height of the vertical line */
+   margin-left: 53px;    
+}
+
+.swipe{
+    width: 23px;
+    height: 23px;
+    margin-left: -12px;
+    margin-top: 45px;
+    cursor: pointer;
+     background-size: 23px 23px;
+     transition: transform 0.5s ease;
+}
+
+
+
+.search{
+    display: flex;
+    background-color: #ef6614;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    overflow: hidden;
+}
+
+.search a button{
+    font-size: 45px;
+    background-color: #ef6614;
+    border: none;
+    outline: none;
+    color: white;
+    font-weight:bold;
+    cursor: pointer;
+    font-family: "Roboto Slab", serif;
+}
+
+
+/*Destination portion end*/
+
+
+
+/*Offers option start*/
+
+.offers {
+    width: 100%;
+    height: 510px;
+    padding-top: 20px;  
+ }
+  
+.offers:hover{
+    background-color: rgb(252, 246, 246);  
+}
+
+  .bookus2{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    padding: 12px;
+}
+
+.bookus2 img{
+    cursor: pointer;
+      width: 50px;
+      height: 50px;
+}
+
+.bookus2 h3{   
+    font-family: "Roboto Slab", serif;
+    color: black;
+    font-size: 40px;
+    font-weight: 700;
+
+}
+
+.bookus2 h3:hover{
+    cursor: pointer;
+    color: rgb(51, 47, 47);
+    font-weight: bold;
+}
+  
+  
+  .slider {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 380px;
+  }
+  
+  .card-container {
+    display: flex;
+    overflow: hidden;
+    width: 95%;
+    scroll-behavior: smooth;
+  }
+  
+  .cardportion {
+    width: 385px;
+    height: 385px;
+    background: linear-gradient(180deg, #fff5f0 8%, rgb(255, 234, 234) 100%);
+    box-shadow: 0 0 7px rgb(0, -1, 6, 0.06) inset;
+    border: 1px solid #F5F5F5;
+    display: flex;
+    flex-direction: row;
+    margin-left: 15px;
+    padding: 10px;
+    border-radius: 10px;
+    transition: transform 0.3s ease;
+  }
+
+  .cardportion:hover{
+             transform: scale(0.9);
+      }
+
+ 
+  .innercard {
+    width: 365px;
+    height: 360px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+    text-align: center;
+  }
+
+  .innercard h6 {
+    font-family: "Playfair Display", serif;
+    color: black;
+    font-size: 18px;
+    font-weight: 550;
+     cursor: pointer;
+    }
+
+    .innercard p{
+        font-family: "Almendra", serif;
+        margin-top: 5px;
+        font-weight: 500;
+        font-size: 20px;
+    }
+
+  .innercard p:hover{
+    font-size: 20px;
+  }
+  
+  .cardimg {
+    width: 365px;
+    height: 255px;
+    border-radius: 10px;
+  }
+  
+  .cardimg img {
+    width: 100%;
+    height: 225px;
+    object-fit: cover;
+    border-radius: 10px;
+  }
+ 
+
+  /* Navigation arrows */
+  .prev, .next {
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 30px;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    padding: 10px;
+    border-radius: 50%;
+  }
+  
+  .prev {
+    left: 0;
+  }
+  
+  .next {
+    right: 0;
+  }
+  
+/*Offers option end*/
+
+
+/*top Hotel Route start*/
+
+.route{
+    width: 100%;
+    height: 430px;
+}
+
+.route:hover{
+    background-color: rgb(252, 246, 246);  
+}
+
+.bookus1{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+}
+
+.bookus1 img{
+      width: 60px;
+      height: 70px;
+      transition: transform 0.3s ease;
+}
+
+.bookus1 img:hover{
+    transform: scale(1.1);
+}
+
+.bookus1 h3{
+    cursor: pointer;
+    font-family: "Roboto Slab", serif;
+    color: black;
+    font-size: 40px;
+}
+
+
+.fromto{
+    width: 100%;
+    height: 350px;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px;
+    gap: 10px;
+    justify-content: space-between;
+}
+
+.chotucard{
+    width: calc(33.33% - 10px);
+    height: 95px;
+    display: flex;
+    padding: 10px;
+    border-radius: 20px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.chotucard:hover{
+    background-color: #e2e2e2;
+}
+
+.leftimg{
+    width: 100px;
+    height:80px;
+    font-weight: 500;
+    margin-bottom: 5px;   
+}
+
+.leftimg img{
+    border-radius: 15px;
+    width: 90px;
+    height: 75px;
+    object-fit: cover;
+    transition: transform 0.3s ease;
+}
+
+.leftimg img:hover{
+          width: 95px;
+          transform: scale(1.1);
+        }
+
+.righttext{
+    width: 300px;
+    height: 96px;
+        padding: 5px;
+
+}
+
+.dest{
+    display: flex;
+    align-items: center;
+    margin-right: 25px;
+    justify-content: center;
+    gap: 10px;
+}
+
+.dest span{
+    font-family: "Playfair Display", serif;
+    font-size:20px;
+}
+
+.dest span:hover{
+    font-weight: 600;
+    color: #2196f3;
+}
+
+
+.startend{
+    font-size: 16px;
+    margin-left: 25px;
+   color: #2196f3;
+   font-weight:600;
+   width: 150px;
+   height: 35px;
+}
+
+.startend p{
+    font-family: "Almendra", serif;
+     font-size: 20px;
+}
+
+.startend p:hover{
+    color: black;
+}
+
+/*top hotel Route end*/
+
+
+/*Why book us portion start*/
+.book{
+    width: 100%;
+    height: 380px;
+    margin-top: 80px;
+}
+
+.book:hover{
+   background-color: rgb(252, 246, 246);  
+}
+
+
+.bookus{
+   display: flex;
+   gap: 10px;
+   justify-content: center;
+}
+
+.bookus img{
+     width: 60px;
+     height: 60px;
+}
+
+.bookus h3{
+   font-family: "Roboto Slab", serif;
+   cursor: pointer;
+   font-size: 40px;
+}
+
+.property{
+   width: 100%;
+   height: 320px;
+   display: flex; 
+   padding: 20px;
+   align-items: center;
+   justify-content: space-between;
+   gap: 20px;
+}
+
+.easybook{
+      width: 300px;
+      height: 260px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+   border: 1px solid skyblue;
+      border-radius: 20px;
+      transition: transform 0.3s ease;
+}
+
+.easybook:hover{
+   transform: scale(0.9);
+}
+
+.bookimg{
+   width:300px;
+   height:150px;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   border-radius: 20px;
+}
+
+.bookimg img{
+   width: 100px;
+   height: 100px;
+   margin-top: 5px;
+}
+
+.easybook h3{
+   font-weight: 600;
+   font-family: "Elsie", serif;
+   font-size: 25px;
+
+}
+
+.easybook p{
+ font-family: "Stoke", serif;
+   text-align: center;
+   font-size: 14px;
+   font-weight:500;
+}
+
+/*why book us portion end*/
+
+/*Last Footer start*/
+
+a{ 
+    text-decoration: none; 
+}
+
+ul{
+    padding:0;
+    margin:0;
+}
+ul li{
+    padding:0;
+    margin:0;
+    list-style: none;
+}
+p{ 
+    font-size: 16px;
+    font-weight: 400;
+    margin:0; 
+}
+h6{
+    font-family: 'Nunito', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+}
+:root{
+    --color:#e8e8e8;
+    --color-hover:#ff5421;
+    --background-color: #4e49a1;
+    --border-color: rgba(255, 255, 255, 0.1);
+}
+#footer{
+    background: var(--background-color);
+    font-family: 'Rubik', sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    letter-spacing: 0.2px;  
+    padding: 100px 0 0;
+}
+#footer ul li{
+    color: var(--color);
+    font-size: 15px;
+    font-weight: 400;
+    position: relative;
+    margin-bottom: 12px;
+}
+#footer ul li a{
+    color: var(--color);
+    transition: all 0.3s ease-in-out;
+}
+#footer .explore li,
+#footer .category li,
+#footer .resource li{ padding: 0 0 0 15px; }
+#footer .explore li:before,
+#footer .category li:before,
+#footer .resource li:before{
+    content: "";
+    background: var(--color-hover);
+    width: 6px;
+    height: 6px;
+    position: absolute;
+    top: 8px;
+    left: 0;
+}
+#footer ul li a:hover{ color:var(--color-hover); }
+#footer ul li i.fa{
+    color: var(--color);
+    margin: 0 6px 0 0;
+}
+#footer .footer-section{
+    padding: 40px 0;
+    border-top: 1px solid var(--border-color);
+}
+ .footer-section .text-center img{
+    height: 200px;
+    width: 300px;
+    margin-top: -40px;
+}
+#footer .footer-section .icon li{ 
+    display: inline-block;
+    margin: 0 5px;
+}
+
+#footer .footer-section .icon li a{
+    color: var( --background-color);
+    background: var(--color);
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    display: block;
+    border-radius: 50px;
+    transition: all 0.3s ease-in-out;
+}
+#footer .footer-section .icon li a:hover{ color: var(--color-hover); }
+#footer .footer-section .icon li a i{ line-height:inherit; }
+
+@media screen and  (max-width: 900px) and (min-width: 300px)
+{
+     #footer{
+        margin-top: 460px;
+     }    
+}
+
+/*Last footer end*/

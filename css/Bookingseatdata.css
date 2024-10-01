@@ -1,0 +1,22 @@
+ body {
+            background: url('https://img.freepik.com/free-photo/aesthetic-leaf-watercolor-background-orange-autumn-season_53876-128733.jpg?ga=GA1.1.1081790248.1723849374&semt=ais_hybrid') no-repeat;
+            background-size: cover;
+        }
+        .form-container {
+            margin-top: 50px;
+            background-color: white;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        .form-title {
+            font-size: 24px;
+            margin-bottom: 20px;
+        }
+        .submit-message {
+            display: none;
+            color: green;
+            font-weight: bold;
+            margin-top: 20px;
+        }
+
